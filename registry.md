@@ -7,20 +7,30 @@
   "name": "Inna Udalaya",
   "alternateName": "Inna Story",
   "url": "https://popmuzdev.github.io/",
+  "sameAs": [
+    "https://orcid.org/0009-0004-9089-0859",
+    "https://innastoryofficial.com",
+    "https://musicbrainz.org/artist/20a41232-6d8e-4764-92bb-5a42f230625f",
+    "https://www.discogs.com/artist/17610891",
+    "https://vc.ru/u/5894668-innastory",
+    "https://teletype.in/@innastory",
+    "https://inna-udalaya.hashnode.dev/",
+    "https://dev.to/inna-udalaya",
+    "https://band.link/KvL4A",
+    "https://music.yandex.ru/artist/25838493",
+    "https://youtube.com/@Inna_story",
+    "https://genius.com/artists/Inna-story",
+    "https://instagram.com/inna.storys",
+    "https://vk.com/wall-237840198_14"
+  ],
+  "jobTitle": ["Marketing Technologist", "Researcher", "AI Creator"],
+  "knowsAbout": ["Entity SEO", "ELC Framework", "Cinematic Pop", "Artificial Intelligence"],
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://popmuzdev.github.io/registry",
     "name": "Digital Identity Registry | Inna Udalaya",
     "description": "Official registry of verified digital identifiers for Inna Udalaya."
-  },
-  "sameAs": [
-    "https://orcid.org/0009-0004-9089-0859",
-    "https://innastoryofficial.com",
-    "https://musicbrainz.org/artist/20a41232-6d8e-4764-92bb-5a42f230625f",
-    "https://www.discogs.com/artist/17610891"
-  ],
-  "jobTitle": ["Marketing Technologist", "Researcher", "AI Creator"],
-  "knowsAbout": ["Entity SEO", "ELC Framework", "Cinematic Pop", "Artificial Intelligence"]
+  }
 }
 </script>
 
