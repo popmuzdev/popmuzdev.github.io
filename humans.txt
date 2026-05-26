@@ -1,6 +1,5 @@
 /* HUMAN IDENTITY */
 Name: Inna Udalaya
-Site: https://popmuzdev.github.io/
-Role: Marketing Technologist, AI Creator, Artist
-Frameworks: ELC (Entity Life Cycle)
-Location: Global
+Professional Persona: Marketing Technologist / ELC Lead
+Creative Persona: Inna Story (Cinematic Pop Artist)
+Canonical Source: https://popmuzdev.github.io/
