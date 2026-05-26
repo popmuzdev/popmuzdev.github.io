@@ -1,5 +1,10 @@
 # Digital Identity Registry: Inna Udalaya
 
+---
+layout: default
+---
+
+<div style="display:none;">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -33,10 +38,12 @@
   }
 }
 </script>
+</div>
 
----
+# Digital Identity Registry: Inna Udalaya
 
-Этот реестр является центральным узлом для верификации цифровой личности и интеллектуальных активов Инны Удалой.
+Этот реестр служит центральным узлом для верификации цифровой личности и интеллектуальных активов.
+
 
 
 ## 🆔 Официальные идентификаторы
