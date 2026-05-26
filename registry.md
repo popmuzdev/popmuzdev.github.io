@@ -6,12 +6,12 @@
   "@type": "Person",
   "name": "Inna Udalaya",
   "alternateName": "Inna Story",
-  "url": "https://popmuzdev.github.io/registry.html",
+  "url": "https://popmuzdev.github.io/",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://popmuzdev.github.io/registry.html",
+    "@id": "https://popmuzdev.github.io/registry",
     "name": "Digital Identity Registry | Inna Udalaya",
-    "description": "Official registry of verified digital identifiers, methodologies, and creative assets for Inna Udalaya (Inna Story)."
+    "description": "Official registry of verified digital identifiers for Inna Udalaya."
   },
   "sameAs": [
     "https://orcid.org/0009-0004-9089-0859",
