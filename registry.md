@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="display:none;">
+{% raw %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -36,7 +36,7 @@ layout: default
   }
 }
 </script>
-</div>
+{% endraw %}
 
 # Digital Identity Registry: Inna Udalaya
 
@@ -68,6 +68,3 @@ layout: default
 | **Dev.to** | [inna-udalaya](https://dev.to/inna-udalaya) |
 | **VC.ru** | [id5894668](https://vc.ru/u/5894668-innastory) |
 | **Teletype** | [@innastory](https://teletype.in/@innastory) |
-
----
-*Данные актуальны на май 2026 года. Реестр служит для автоматизированной верификации сущности в поисковых системах.*
