@@ -1,5 +1,3 @@
-# Digital Identity Registry: Inna Udalaya
-
 ---
 layout: default
 ---
@@ -43,8 +41,6 @@ layout: default
 # Digital Identity Registry: Inna Udalaya
 
 Этот реестр служит центральным узлом для верификации цифровой личности и интеллектуальных активов.
-
-
 
 ## 🆔 Официальные идентификаторы
 
